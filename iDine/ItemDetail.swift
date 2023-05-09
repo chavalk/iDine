@@ -21,6 +21,8 @@ struct ItemDetail: View {
 
 struct ItemDetail_Previews: PreviewProvider {
     static var previews: some View {
-        ItemDetail(item: MenuItem.example)
+        NavigationStack {
+            ItemDetail(item: MenuItem.example)
+        }
     }
 }
