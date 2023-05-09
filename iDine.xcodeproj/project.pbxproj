@@ -63,13 +63,13 @@
 			children = (
 				BEC974022A09E10E00BFE62C /* iDineApp.swift */,
 				BEC974042A09E10E00BFE62C /* ContentView.swift */,
+				BEC974182A0AC4E700BFE62C /* ItemRow.swift */,
 				BEC974102A09E24300BFE62C /* Helper.swift */,
 				BEC974122A09E2AB00BFE62C /* Menu.swift */,
 				BEC974132A09E2AB00BFE62C /* Order.swift */,
 				BEC974162A09E2BB00BFE62C /* menu.json */,
 				BEC974062A09E11000BFE62C /* Assets.xcassets */,
 				BEC974082A09E11000BFE62C /* Preview Content */,
-				BEC974182A0AC4E700BFE62C /* ItemRow.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
