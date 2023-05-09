@@ -16,6 +16,7 @@
 		BEC974152A09E2AC00BFE62C /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC974132A09E2AB00BFE62C /* Order.swift */; };
 		BEC974172A09E2BB00BFE62C /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = BEC974162A09E2BB00BFE62C /* menu.json */; };
 		BEC974192A0AC4E700BFE62C /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC974182A0AC4E700BFE62C /* ItemRow.swift */; };
+		BEC9741D2A0B023A00BFE62C /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		BEC974132A09E2AB00BFE62C /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		BEC974162A09E2BB00BFE62C /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		BEC974182A0AC4E700BFE62C /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				BEC974022A09E10E00BFE62C /* iDineApp.swift */,
 				BEC974042A09E10E00BFE62C /* ContentView.swift */,
+				BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */,
 				BEC974182A0AC4E700BFE62C /* ItemRow.swift */,
 				BEC974102A09E24300BFE62C /* Helper.swift */,
 				BEC974122A09E2AB00BFE62C /* Menu.swift */,
@@ -153,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEC9741D2A0B023A00BFE62C /* ItemDetail.swift in Sources */,
 				BEC974052A09E10E00BFE62C /* ContentView.swift in Sources */,
 				BEC974032A09E10E00BFE62C /* iDineApp.swift in Sources */,
 				BEC974152A09E2AC00BFE62C /* Order.swift in Sources */,
