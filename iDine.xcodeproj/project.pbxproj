@@ -19,6 +19,7 @@
 		BEC9741D2A0B023A00BFE62C /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */; };
 		BEC9741F2A0B5E5A00BFE62C /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9741E2A0B5E5A00BFE62C /* OrderView.swift */; };
 		BEC974212A0C1CF100BFE62C /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC974202A0C1CF100BFE62C /* MainView.swift */; };
+		BEC974232A0C290A00BFE62C /* CheckOutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC974222A0C290A00BFE62C /* CheckOutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		BEC9741E2A0B5E5A00BFE62C /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		BEC974202A0C1CF100BFE62C /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		BEC974222A0C290A00BFE62C /* CheckOutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckOutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				BEC974022A09E10E00BFE62C /* iDineApp.swift */,
+				BEC974222A0C290A00BFE62C /* CheckOutView.swift */,
 				BEC974042A09E10E00BFE62C /* ContentView.swift */,
 				BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */,
 				BEC9741E2A0B5E5A00BFE62C /* OrderView.swift */,
@@ -168,6 +171,7 @@
 				BEC974052A09E10E00BFE62C /* ContentView.swift in Sources */,
 				BEC974032A09E10E00BFE62C /* iDineApp.swift in Sources */,
 				BEC974152A09E2AC00BFE62C /* Order.swift in Sources */,
+				BEC974232A0C290A00BFE62C /* CheckOutView.swift in Sources */,
 				BEC974192A0AC4E700BFE62C /* ItemRow.swift in Sources */,
 				BEC974142A09E2AC00BFE62C /* Menu.swift in Sources */,
 				BEC974112A09E24300BFE62C /* Helper.swift in Sources */,
