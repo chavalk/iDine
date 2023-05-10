@@ -18,6 +18,7 @@
 		BEC974192A0AC4E700BFE62C /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC974182A0AC4E700BFE62C /* ItemRow.swift */; };
 		BEC9741D2A0B023A00BFE62C /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */; };
 		BEC9741F2A0B5E5A00BFE62C /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9741E2A0B5E5A00BFE62C /* OrderView.swift */; };
+		BEC974212A0C1CF100BFE62C /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC974202A0C1CF100BFE62C /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		BEC974182A0AC4E700BFE62C /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		BEC9741E2A0B5E5A00BFE62C /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		BEC974202A0C1CF100BFE62C /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				BEC974042A09E10E00BFE62C /* ContentView.swift */,
 				BEC9741C2A0B023A00BFE62C /* ItemDetail.swift */,
 				BEC9741E2A0B5E5A00BFE62C /* OrderView.swift */,
+				BEC974202A0C1CF100BFE62C /* MainView.swift */,
 				BEC974182A0AC4E700BFE62C /* ItemRow.swift */,
 				BEC974102A09E24300BFE62C /* Helper.swift */,
 				BEC974122A09E2AB00BFE62C /* Menu.swift */,
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEC9741D2A0B023A00BFE62C /* ItemDetail.swift in Sources */,
+				BEC974212A0C1CF100BFE62C /* MainView.swift in Sources */,
 				BEC9741F2A0B5E5A00BFE62C /* OrderView.swift in Sources */,
 				BEC974052A09E10E00BFE62C /* ContentView.swift in Sources */,
 				BEC974032A09E10E00BFE62C /* iDineApp.swift in Sources */,
