@@ -13,9 +13,14 @@ struct ItemDetail: View {
     var body: some View {
         VStack {
             Image(item.mainImage)
+            
             Text(item.description)
+                .padding()
+            
+            Spacer()
         }
         .navigationTitle(item.name)
+        .navigationBarTitleDisplayMode(.inline)
     }
 }
 
